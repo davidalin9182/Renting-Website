@@ -1,0 +1,18 @@
+// .h1-prop {
+//     font-size: 20px;
+// }
+
+.propImg {
+    height: 500px;
+    width: 500px;
+}
+.h1-prop {
+    display: block;
+    width: auto;
+    white-space: nowrap;
+    overflow: visible;
+    text-overflow: clip;
+}
+.card-custom {
+    width: fit-content
+}
